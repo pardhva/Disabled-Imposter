@@ -1,3 +1,5 @@
+IGNNORE all code files except mar16g
+
 # Disabled-Imposter
 A deadly among us imposter, except it only tries to stab you when you're far away, rather than the other way around! :D
 Parts-
